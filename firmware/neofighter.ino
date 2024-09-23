@@ -5,7 +5,7 @@
 #define NUM_LEDS 32
 #define BUTTON_COUNT 16
 #define DEBOUNCE_DELAY 5
-#define BRIGHTNESS 150 // Adjust brightness as needed
+#define BRIGHTNESS 100 // Adjust brightness as needed
 
 CRGB leds[NUM_LEDS];
 
